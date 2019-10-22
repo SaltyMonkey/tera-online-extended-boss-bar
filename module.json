@@ -1,0 +1,13 @@
+{
+    "disableAutoUpdate" : false,
+    "name" : "Extended Boss Bar",
+    "category" : "client",
+    "author" : "SaltyMonkey",
+    "options" : {
+        "guiName" : "Extended Boss Bar",
+        "niceName" : "Extended Boss Bar"
+    },
+    "servers" : [
+        "https://raw.githubusercontent.com/SaltyMonkey/tera-online-extended-boss-bar/master/"
+    ]
+}
