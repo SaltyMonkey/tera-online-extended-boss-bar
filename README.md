@@ -1,5 +1,8 @@
-# tera-online-extended-boss-bar
-Extended GPK mod for boss hp bar.
+# Extended boss bar
+GPK mod for boss bar with extended functionality with default style.
+
+![Enrage](https://github.com/SaltyMonkey/tera-online-extended-boss-bar/blob/ui/enr.png)
+![Next enrage percent](https://github.com/SaltyMonkey/tera-online-extended-boss-bar/blob/ui/percent.png)
 
 ## Features:
 
