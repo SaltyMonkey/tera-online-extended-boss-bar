@@ -1,8 +1,8 @@
 # Extended boss bar
 GPK mod for boss bar with extended functionality with default style.
 
-![Enrage](https://github.com/SaltyMonkey/tera-online-extended-boss-bar/blob/ui/enr.png)
-![Next enrage percent](https://github.com/SaltyMonkey/tera-online-extended-boss-bar/blob/ui/percent.png)
+![Enrage](https://github.com/SaltyMonkey/tera-online-extended-boss-bar/blob/master/ui/enr.png)
+![Next enrage percent](https://github.com/SaltyMonkey/tera-online-extended-boss-bar/blob/master/ui/percent.png)
 
 ## Features:
 
