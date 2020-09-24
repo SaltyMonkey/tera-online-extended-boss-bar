@@ -1,15 +1,11 @@
 # Extended boss bar
-GPK mod for boss bar with extended functionality with default style.
-
-![Enrage](https://github.com/SaltyMonkey/tera-online-extended-boss-bar/blob/master/ui/enr.png)
-![Next enrage percent](https://github.com/SaltyMonkey/tera-online-extended-boss-bar/blob/master/ui/percent.png)
+GPK mod for boss bar with default style and useful fixes.
 
 ## Features:
 
-* Next enrage hp %
+* Simplified next enrage text
 * Adjusted boss level and name location
-* Removed buffs/debuff warning blinks when they near expire
 * Removed quest target picture
 * Removed constant shake with crits
 
-Current source for gpk codebase: patch 86
+Current source for gpk codebase: patch 98
