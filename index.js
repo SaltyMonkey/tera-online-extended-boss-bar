@@ -1,5 +1,5 @@
 exports.ClientMod = class {
    install(installer) {
-     installer.gpk("S1UI_Message.gpk");
+     installer.gpk("S1UI_GageBoss.gpk");
    }
 };
