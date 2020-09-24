@@ -1,3 +1,5 @@
-module.exports = function ExtendedBossBar(m) {
-   m.installGPK("S1UI_GageBoss.gpk");
-}
+exports.ClientMod = class {
+   install(installer) {
+     installer.gpk("S1UI_Message.gpk");
+   }
+};
